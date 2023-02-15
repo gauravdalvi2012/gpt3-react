@@ -1,1 +1,1 @@
-This project was made by following this [tutorial](https://www.youtube.com/watch?v=F627pKNUCVQ) by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) on YouTube.
+Frontend Reactjs Website
